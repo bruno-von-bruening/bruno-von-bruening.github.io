@@ -1,6 +1,6 @@
 {
-    "name" : "Giovanni Wang",
-    "phrase" : "Yesterday's belief in science, fueled by smart implementation and careful testing, brings us future technologies today.",
+    "name" : "Bruno von Brüning",
+    "phrase" : "",
     "portfolio" : [
         {
             "name" : "Automatic algebraic computation of predefined integers",
@@ -78,8 +78,8 @@
         }
     ],
     "about" : {
-        "bio" : "I'm just a simple man making my way through the galaxy.",
-        "img" : "img/inTheField.jpg",
+        "bio" : "",
+        "img" : "img/Bruno_travel-phoro_crop_edited.jpg",
         "cv" : {
             "work" : [
                 {
@@ -103,19 +103,19 @@
             ],
             "education" : [
                 {
-                    "degree" : "Doctor of Philosophy in Xenomaterial Science",
-                    "institution" : "Asgardian Institute of Science and Engineering",
-                    "year" : 2472
+                    "degree" : "Ongoing PhD in Pysics (MSCA Doctoral Network)",
+                    "institution" : "Queen Mary University of London",
+                    "year" : 2024
                 },
                 {
-                    "degree" : "Inorganic Chemistry - Master of Science (M.Sc.)",
-                    "institution" : "Royal University of Naboo",
-                    "year" : 2468
+                    "degree" : "Master of Science: Computational Modelling and Theoretical Chemistry",
+                    "institution" : "KU Leuven",
+                    "year" : 2023
                 },
                 {
-                    "degree" : "Bachelor in Science: Physics",
-                    "institution" : "University of Atlantis",
-                    "year" : 2466
+                    "degree" : "Bachelor of Science: Chemistry",
+                    "institution" : "University of Regensburg",
+                    "year" : 2021
                 }
             ],
             "skills" : [
